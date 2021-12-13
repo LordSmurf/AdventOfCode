@@ -1,4 +1,3 @@
-const { table } = require("console");
 const fs = require("fs");
 const binary = require("binary-to-decimal");
 const input = fs.readFileSync("./input.txt", "utf8");
